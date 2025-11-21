@@ -1,6 +1,5 @@
-# GuessNameC-
-Merhaba arkadaşlar
+GuessNameCpp
 
-C++ Üzerinden sayı tahmin oyunu yaptım.Oyun kullanıcdan aldığı inputlara göre şekilleniyor.Zorluk seviyesi kontrolunu kullanıcıya veriyoruz.Bir nevi try catch yapısıyla kullanıcıdan sadece istediğimiz şartlara uyan inputları alıyoruz.Oyun sağlıklı bir şekilde çalışıyor.
+Hello everyone,
 
-İlgilendiğiniz için teşekkürler...
+I created a number guessing game in C++. The game adapts based on the input provided by the user. We give the user control over the difficulty level, and using a kind of try-catch logic, we ensure that only inputs meeting the required conditions are accepted. The game works smoothly and runs without issues.
